@@ -17,10 +17,8 @@
 * [RUNOOB](http://www.runoob.com/)
 
 ##3、随便逛逛
-###一些感觉很厉害的网站
 * [GitHub](https://github.com/)
 * [CODEPEN](http://codepen.io)
-###一个你可能会遇到别人跟你问了同样的问题的网站
 * [Stack Overflow](http://stackoverflow.com/)
 
 ##4、上一个布置的作业…你们有兴趣就做做吧…
